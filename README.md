@@ -2,7 +2,11 @@
 ### Hi there 👋
 ![배너](https://user-images.githubusercontent.com/52737532/117021013-ec09cc80-ad31-11eb-87e5-1d3cf5808783.jpg)
 
-![](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) ![](https://img.shields.io/badge/C-black?style=flat-square&logo=C&logoColor=white) ![](https://img.shields.io/badge/C%23-F3D9A7?style=flat-square&logo=C&logoColor=white) ![](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)  ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
+![](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
+![](https://img.shields.io/badge/C-black?style=flat-square&logo=C&logoColor=white)
+![](https://img.shields.io/badge/C%23-F3D9A7?style=flat-square&logo=C&logoColor=white) 
+![](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)  
+![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
 
 
 <!--
