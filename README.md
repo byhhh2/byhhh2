@@ -4,8 +4,8 @@
 
 ![](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/C-black?style=flat-square&logo=C&logoColor=white)
-![](https://img.shields.io/badge/C%23-F3D9A7?style=flat-square&logo=C&logoColor=white) 
-![](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)  
+![](https://img.shields.io/badge/C%23-F3D9A7?style=flat-square&logo=C&logoColor=white)
+![](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
 
 
