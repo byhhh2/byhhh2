@@ -1,5 +1,6 @@
 
 ### Hi there 👋
+[![byhhh2's GitHub stats](https://github-readme-stats.vercel.app/api?username=byhhh2&count_private=true&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
 ![배너](https://user-images.githubusercontent.com/52737532/117021013-ec09cc80-ad31-11eb-87e5-1d3cf5808783.jpg)
 
 ![](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
