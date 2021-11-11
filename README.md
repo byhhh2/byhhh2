@@ -1,35 +1,39 @@
+안녕하세요 ? 😎 후후
 
-<div align="center">
+<br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbyhhh2&count_bg=%23C299C7&title_bg=%23EFC0AC&icon=&icon_color=%23E7E7E7&title=hits++&edge_flat=false)](https://github.com/byhhh2)
+<details>
+<summary>🔍 Project</summary>
+<div>
 
+- [**Moayoung**](https://github.com/daaaayeah/oss-moayoung)
+- [**JIM**](https://github.com/Jingil-Integrated-Management/JIM_frontend)
+  - [**JIM_Ver2** ➰](https://github.com/Jingil-Integrated-Management/JIM_frontend_v2.1)
+- [**Mentos**](https://github.com/byhhh2/MentoringApp)
+- [**Blooming**](https://github.com/byhhh2/blooming-frontend)
 
-![byhhh2's GitHub stats](https://github-readme-stats.vercel.app/api?username=byhhh2&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+</div>
+</details>
 
-  
-![배너](https://user-images.githubusercontent.com/52737532/117021013-ec09cc80-ad31-11eb-87e5-1d3cf5808783.jpg)  
-   
-   
-   
-![](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
-![](https://img.shields.io/badge/C-black?style=flat-square&logo=C&logoColor=white)
-![](https://img.shields.io/badge/C%23-F3D9A7?style=flat-square&logo=C&logoColor=white)
-![](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
+<details>
+<summary>💬 Study</summary>
+<div>
 
+- [**Kotlin with prettiest** ➰](https://github.com/byhhh2/kotlin-with-prettiest)
+- [**CT** ➰](https://github.com/byhhh2/Coding-Test-Preparations)
 
-<!--
-**byhhh2/byhhh2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
+</details>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-</div>  
+<details>
+<summary>요즘 근황 💨</summary>
+<div>
+
+- 정보처리기사 🏆
+- 2021 OSS 공개 SW 개발자대회 한글과컴퓨터상, 동상 🏆
+- SEJONG 11회 창의설계경진대회 장려상 🏆
+
+</div>
+</details>
