@@ -6,11 +6,15 @@
 <summary>🔍 Project</summary>
 <div>
 
+<br>
+
 - [**Moayoung**](https://github.com/daaaayeah/oss-moayoung)
 - [**JIM**](https://github.com/Jingil-Integrated-Management/JIM_frontend)
   - [**JIM_Ver2** ➰](https://github.com/Jingil-Integrated-Management/JIM_frontend_v2.1)
 - [**Mentos**](https://github.com/byhhh2/MentoringApp)
 - [**Blooming**](https://github.com/byhhh2/blooming-frontend)
+
+<br>
 
 </div>
 </details>
@@ -19,8 +23,12 @@
 <summary>💬 Study</summary>
 <div>
 
+<br>
+
 - [**Kotlin with prettiest** ➰](https://github.com/byhhh2/kotlin-with-prettiest)
 - [**CT** ➰](https://github.com/byhhh2/Coding-Test-Preparations)
+
+<br>
 
 </div>
 </details>
@@ -31,9 +39,13 @@
 <summary>요즘 근황 💨</summary>
 <div>
 
+<br>
+
 - 정보처리기사 🏆
 - 2021 OSS 공개 SW 개발자대회 한글과컴퓨터상, 동상 🏆
 - SEJONG 11회 창의설계경진대회 장려상 🏆
+
+<br>
 
 </div>
 </details>
