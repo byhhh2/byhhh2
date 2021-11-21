@@ -13,6 +13,7 @@
   - [**JIM_Ver2** ➰](https://github.com/Jingil-Integrated-Management/JIM_frontend_v2.1)
 - [**Mentos**](https://github.com/byhhh2/MentoringApp)
 - [**Blooming**](https://github.com/byhhh2/blooming-frontend)
+- [**SE:AL** ➰](https://github.com/kotlin-with-prettiest/SE_AL)
 
 <br>
 
