@@ -10,7 +10,7 @@
 
 - [**Moayoung**](https://github.com/daaaayeah/oss-moayoung)
 - [**JIM**](https://github.com/Jingil-Integrated-Management/JIM_frontend)
-  - [**JIM_Ver2** ➰](https://github.com/Jingil-Integrated-Management/JIM_frontend_v2.1)
+  - [**JIM_Ver3** ➰](https://github.com/Jingil-Integrated-Management/JIM_frontend_v3/tree/develop)
 - [**Mentos**](https://github.com/byhhh2/MentoringApp)
 - [**Blooming**](https://github.com/byhhh2/blooming-frontend)
 - [**SE:AL** ➰](https://github.com/kotlin-with-prettiest/SE_AL)
