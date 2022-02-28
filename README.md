@@ -14,6 +14,7 @@
 - [**Mentos**](https://github.com/byhhh2/MentoringApp)
 - [**Blooming**](https://github.com/byhhh2/blooming-frontend)
 - [**SE:AL** ➰](https://github.com/kotlin-with-prettiest/SE_AL)
+- [**Viral MBTI TEST**](https://github.com/Viral-MBTI-Test)
 
 <br>
 
@@ -45,7 +46,8 @@
 - 정보처리기사 🏆
 - 2021 OSS 공개 SW 개발자대회 한글과컴퓨터상, 동상 🏆
 - SEJONG 11회 창의설계경진대회 장려상 🏆
-- 우아한테크코스 4기 프리코스 ~ 
+- 우아한테크코스 4기 프리코스
+- 우아한테크코스 본코스 ~
 
 <br>
 
