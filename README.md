@@ -9,11 +9,10 @@
 <br>
 
 - [**Moayoung**](https://github.com/daaaayeah/oss-moayoung)
-- [**JIM**](https://github.com/Jingil-Integrated-Management/JIM_frontend)
-  - [**JIM_Ver3** ➰](https://github.com/Jingil-Integrated-Management/JIM_frontend_v3/tree/develop)
+- [**JIM**](https://github.com/Jingil-Integrated-Management)
 - [**Mentos**](https://github.com/byhhh2/MentoringApp)
 - [**Blooming**](https://github.com/byhhh2/blooming-frontend)
-- [**SE:AL** ➰](https://github.com/kotlin-with-prettiest/SE_AL)
+- [**SE:AL**](https://github.com/kotlin-with-prettiest/SE_AL)
 - [**Viral MBTI TEST**](https://github.com/Viral-MBTI-Test)
 
 <br>
@@ -27,8 +26,8 @@
 
 <br>
 
-- [**Kotlin with prettiest** ➰](https://github.com/byhhh2/kotlin-with-prettiest)
-- [**CT** ➰](https://github.com/byhhh2/Coding-Test-Preparations)
+- [**Kotlin with prettiest**](https://github.com/byhhh2/kotlin-with-prettiest)
+- [**CT**](https://github.com/byhhh2/Coding-Test-Preparations)
 
 <br>
 
